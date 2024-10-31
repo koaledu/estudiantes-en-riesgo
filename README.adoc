@@ -1,0 +1,18 @@
+= Estudiantes en riesgo
+
+== Sitios para buscar conjuntos de datos
+
+* https://www.kaggle.com/[Kaggle]
+* https://datasetsearch.research.google.com/[Google Data Research]
+* https://www.youtube.com/watch?v=JcDnoEtsoCU[Video con páginas para buscar conjuntos de datos]
+
+== Conjuntos de datos
+
+* https://www.kaggle.com/datasets/sathishdhuda/student-dataset/data[Estudiantes en India]
+* https://data.mendeley.com/datasets/dp8cywvp8y/1[Estudiantes en Nigeria]
+
+== Investigaciones
+
+* https://www.sciencedirect.com/science/article/pii/S2214716023000271#da1[UIS, Colombia]
+* https://www.matec-conferences.org/articles/matecconf/pdf/2024/04/matecconf_icmed2024_01113.pdf[Reddy College, India]
+* http://www.dssgfellowship.org/wp-content/uploads/2016/04/montogmery-kd2015.pdf[Varias universidades, EE.UU]
